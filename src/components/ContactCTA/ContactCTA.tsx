@@ -66,7 +66,7 @@ const ContactCTA = () => {
           </p>
 
           <Link
-            href="https://wa.me/521XXXXXXXXXX?text=Hola,%20me%20gustaría%20recibir%20información%20sobre%20una%20invitación%20digital."
+            href="https://wa.me/526141234567"
             target="_blank"
             className="
               mt-10
