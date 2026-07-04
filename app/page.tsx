@@ -7,11 +7,11 @@ import Services from "@/src/components/Services/Services";
 export default function Home() {
   return (
     <main>
-      <AboutUs />
-      <Services />
       <Portfolio />
-      <Process />
       <ContactCTA />
+      <Services />
+      <AboutUs />
+      <Process />
     </main>
   );
 }
