@@ -24,8 +24,8 @@ const projects = [
     title: "Baby Shower Emma",
     category: "Baby Shower",
     style: "Moderno",
-    href: "https://demo3.com",
-    thumbnail: "/portfolio/baby-1.jpg",
+    href: "https://invitacion-baby-shower-prototipo.vercel.app",
+    thumbnail: "/BabyShower.png",
     features: ["Cuenta regresiva", "Maps", "Galería"],
   },
 ];
