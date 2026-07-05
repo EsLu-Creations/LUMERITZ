@@ -16,8 +16,8 @@ const projects = [
     title: "XV Años Sofía",
     category: "XV Años",
     style: "Minimalista",
-    href: "https://demo2.com",
-    thumbnail: "/portfolio/xv-1.jpg",
+    href: "https://invitacion-xv-prototipo.vercel.app",
+    thumbnail: "/XV Valentina.png",
     features: ["Galería", "RSVP", "WhatsApp"],
   },
   {
