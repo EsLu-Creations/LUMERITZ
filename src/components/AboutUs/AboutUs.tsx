@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "../../../public/logo-lumeritz.png";
+import Logo from "../../../public/EsLu_Creations_logo_HD.png";
 
 const AboutUs = () => {
   return (
@@ -66,11 +66,6 @@ const AboutUs = () => {
               w-full
               max-w-md
               aspect-square
-              rounded-4xl
-              border
-              border-lumeritz-sage/40
-              bg-white
-              shadow-[0_20px_60px_rgba(45,70,54,0.08)]
               p-12
               transition-transform
               duration-500
@@ -79,7 +74,7 @@ const AboutUs = () => {
           >
             <Image
               src={Logo}
-              alt="Logo de Lúmeritz"
+              alt="Logo de EsLu"
               fill
               className="object-contain p-10"
               priority
