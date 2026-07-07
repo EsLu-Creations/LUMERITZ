@@ -10,7 +10,7 @@ import {
   Users,
 } from "lucide-react";
 
-import Logo from "../../public/logo-lumeritz.png";
+import Logo from "../../public/EsLu_Creations_logo_HD.png";
 
 const features = [
   {
@@ -135,10 +135,6 @@ const Hero = () => {
             className="
             relative
             rounded-[3rem]
-            bg-white
-            border
-            border-lumeritz-sage/30
-            shadow-[0_40px_90px_rgba(45,70,54,.12)]
             p-16
             w-full
             max-w-md

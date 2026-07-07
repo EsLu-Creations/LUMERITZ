@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lúmeritz | Invitaciones Digitales",
+  title: "EsLu Creations | Invitaciones Digitales",
   description: "Diseñamos la primera impresión de tu evento.",
 };
 
