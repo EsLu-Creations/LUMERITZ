@@ -1,7 +1,9 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { X, Menu } from "lucide-react";
+import Logo from "../../../public/Es-Lu.png";
 
 const Navbar = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -52,10 +54,16 @@ const Navbar = () => {
       >
         <Link
           href="/"
-          className="font-serif italic text-4xl text-lumeritz-green tracking-wide transition-colors 
-          hover:text-lumeritz-gold"
+          className="flex items-center transition-opacity hover:opacity-80 -my-6 z-10"
         >
-          Lúmeritz
+          <Image
+            src={Logo}
+            alt="Es-Lu Logo"
+            width={200}
+            height={200}
+            className="h-24 w-auto object-contain"
+            priority
+          />
         </Link>
 
         <div className="hidden md:flex items-center gap-12">
