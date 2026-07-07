@@ -9,7 +9,7 @@ const AboutUs = () => {
         <div className="space-y-8">
           <div className="space-y-4">
             <p className="text-xs uppercase tracking-[0.35em] text-lumeritz-gold font-medium">
-              Sobre Lúmeritz
+              Sobre EsLu-Creations
             </p>
 
             <h2 className="font-serif text-5xl md:text-6xl leading-tight text-lumeritz-green">
